@@ -35,5 +35,5 @@ Monitoring server health and troubleshooting resource bottlenecks requires rapid
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/mohammadzafari-dev/server-info.git](https://github.com/mohammadzafari-dev/server-info.git)
+git clone https://github.com/mohammadzafari-dev/server-info.git
 cd server-info
